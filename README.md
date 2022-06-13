@@ -6,7 +6,7 @@
 
 😊I'm interested in programming, mikrocontrollers and volleyball.
 
-🌱I’m currently learning C and C++.
+🌱I’m currently learning C, C++ and Java.
 
 📫How to reach me: kosakowskagosia3@gmail.com
 
